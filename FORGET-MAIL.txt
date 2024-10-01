@@ -3,3 +3,4 @@ Hi {FULLNAME},</br>
 Please find your password Here:</br>
 </br>
 Password: {PWD}.</br>
+</br>
