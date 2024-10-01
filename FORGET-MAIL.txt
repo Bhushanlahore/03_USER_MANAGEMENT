@@ -1,0 +1,5 @@
+Hi {FULLNAME},</br>
+</br>
+Please find your password Here:</br>
+</br>
+Password: {PWD}.</br>
